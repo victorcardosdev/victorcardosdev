@@ -1,115 +1,121 @@
-# 👨🏻‍💻 Victor Cardoso
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" />
+</p>
 
-**`Java Back-end Developer`**
+<h1 align="center">Victor Cardoso</h1>
 
-Me chamo **Victor Cardoso** e atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** no **Instituto Federal de Sergipe (IFS)**.
+<p align="center">
+  ☕ <strong>Java Back-end Developer</strong>
+</p>
 
-Sou apaixonado por tecnologia e estou focado em me desenvolver como **desenvolvedor Back-end Java**, estudando conceitos como **Programação Orientada a Objetos**, **Estruturas de Dados**, **SQL**, **Git** e boas práticas de desenvolvimento. Busco evoluir constantemente através de projetos, estudos e desafios práticos.
-
-<p align="left">
-    <a href="https://github.com/victorcardosdev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/victorcardosdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/victorcardosdev?tab=repositories">
-        <img 
-            alt="Repositórios" 
-            title="Meus repositórios" 
-            src="https://custom-icon-badges.demolab.com/badge/Repositórios-GitHub-181717?style=for-the-badge&logo=repo&logoColor=white"
-        />
-    </a>
+<p align="center">
+  🎓 ADS @ IFS • 🚀 Always learning
 </p>
 
 ---
 
-## 💻 Linguagens e Tecnologias
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Sergipe (IFS)** e apaixonado por tecnologia.
+
+Atualmente, direciono meus estudos para o desenvolvimento **Back-end com Java**, buscando aprimorar meus conhecimentos em **Programação Orientada a Objetos**, **Estruturas de Dados**, **SQL** e boas práticas de desenvolvimento.
+
+Meu objetivo é evoluir continuamente através de projetos, desafios práticos e aprendizado constante.
+
+---
+
+## 💻 Tecnologias
+
+<p align="left">
 
 <img
-    align="left"
     alt="Java"
     title="Java"
-    width="30px"
-    style="padding-right:10px;"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 />
 
 <img
-    align="left"
+    alt="SQL"
+    title="SQL"
+    width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+
+<img
     alt="Git"
     title="Git"
-    width="30px"
-    style="padding-right:10px;"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 />
 
 <img
-    align="left"
     alt="GitHub"
     title="GitHub"
-    width="30px"
-    style="padding-right:10px;"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
 />
 
-<img
-    align="left"
-    alt="SQL"
-    title="SQL"
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-
-<br><br>
+</p>
 
 ---
 
 ## 📊 Estatísticas
 
-<p>
+<p align="center">
+
 <img
-    align="left"
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=victorcardosdev&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=victorcardosdev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br"
 />
 
 <img
-    align="left"
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcardosdev&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcardosdev&theme=github_dark&hide_border=true&layout=compact&langs_count=6"
 />
 
 </p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<p align="center">
+
+<img
+    src="https://streak-stats.demolab.com?user=victorcardosdev&theme=github-dark-blue&hide_border=true"
+/>
+
+</p>
 
 ---
 
 ## 📚 Atualmente estudando
 
 - ☕ Java
-- 🏗️ Programação Orientada a Objetos
-- 🗄️ Banco de Dados SQL
+- 🧩 Programação Orientada a Objetos
+- 🗄️ SQL
 - 🌱 Estruturas de Dados
 - 🔀 Git e GitHub
+
+---
+
+## 🎯 Objetivo
+
+Atuar como desenvolvedor **Back-end Java**, criando aplicações bem estruturadas, escaláveis e de qualidade, enquanto continuo evoluindo em arquitetura de software, boas práticas de programação e desenvolvimento de APIs.
 
 ---
 
 ## 📫 Contato
 
 <p align="left">
+
 <a href="https://github.com/victorcardosdev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:joaovictormatosbusiness@gmail.com">
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-matos-cardoso-santana-5231a9211/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 </p>
