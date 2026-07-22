@@ -1,13 +1,11 @@
 <h1 align="center">Olá 👋, eu sou João Victor Matos</h1>
 
 <h3 align="center">
-Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor Back-end Java
+Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor Java
 </h3>
 
 <p align="center">
-  <a href="https://github.com/victorcardosdev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end+Java;Estudante+de+ADS+no+IFS;Sempre+aprendendo+novas+tecnologias" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Estudante+de+ADS+no+IFS;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 ---
@@ -16,72 +14,22 @@ Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor Back-end J
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Sergipe (IFS)**
 
-☕ Atualmente focado em **Java** e **Programação Orientada a Objetos**
+☕ Atualmente estudando **Java** e **SQL**.
 
-📚 Estudando:
-- Java
-- SQL
-- Estruturas de Dados
-- Git e GitHub
-
-🚀 Em busca da minha primeira oportunidade como **Desenvolvedor Java Back-end**.
+🚀 Em busca de um **estágio como Desenvolvedor Java**.
 
 ---
 
-## 🚀 Tecnologias
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-
-</div>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorcardosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcardosdev&layout=compact&langs_count=8&theme=dracula"/>
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=victorcardosdev&theme=dracula"/>
-
-</div>
-
----
-
-## ⭐ Projetos em Destaque
+## ⭐ Projetos
 
 🏠 **Sistema Imobiliário em Java**
-- Programação Orientada a Objetos
+- Java
 - Herança
 - Polimorfismo
 - Tratamento de Exceções
 - Collections
 
-📌 Em breve mais projetos públicos.
+📌 Novos projetos serão adicionados conforme avanço nos estudos.
 
 ---
 
@@ -105,18 +53,8 @@ Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor Back-end J
 
 ---
 
-## 🐍 Contribuições
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/victorcardosdev/victorcardosdev/output/snake.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Todo especialista já foi um iniciante que nunca desistiu."
+### 💡 "A evolução acontece um commit de cada vez."
 
 </div>
