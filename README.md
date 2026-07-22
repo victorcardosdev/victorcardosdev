@@ -1,121 +1,122 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
-</p>
+<h1 align="center">Olá 👋, eu sou João Victor Matos</h1>
 
-<h1 align="center">Victor Cardoso</h1>
-
-<p align="center">
-  ☕ <strong>Java Back-end Developer</strong>
-</p>
+<h3 align="center">
+Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor Back-end Java
+</h3>
 
 <p align="center">
-  🎓 ADS @ IFS • 🚀 Always learning
+  <a href="https://github.com/victorcardosdev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end+Java;Estudante+de+ADS+no+IFS;Sempre+aprendendo+novas+tecnologias" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Sergipe (IFS)** e apaixonado por tecnologia.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Sergipe (IFS)**
 
-Atualmente, direciono meus estudos para o desenvolvimento **Back-end com Java**, buscando aprimorar meus conhecimentos em **Programação Orientada a Objetos**, **Estruturas de Dados**, **SQL** e boas práticas de desenvolvimento.
+☕ Atualmente focado em **Java** e **Programação Orientada a Objetos**
 
-Meu objetivo é evoluir continuamente através de projetos, desafios práticos e aprendizado constante.
+📚 Estudando:
+- Java
+- SQL
+- Estruturas de Dados
+- Git e GitHub
+
+🚀 Em busca da minha primeira oportunidade como **Desenvolvedor Java Back-end**.
 
 ---
 
-## 💻 Tecnologias
+## 🚀 Tecnologias
 
-<p align="left">
+<div align="left">
 
-<img
-    alt="Java"
-    title="Java"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+<img width="10"/>
 
-<img
-    alt="SQL"
-    title="SQL"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img width="10"/>
 
-<img
-    alt="Git"
-    title="Git"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img width="10"/>
 
-<img
-    alt="GitHub"
-    title="GitHub"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+<img width="10"/>
 
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+
+</div>
 
 ---
 
 ## 📊 Estatísticas
 
-<p align="center">
+<div align="center">
 
-<img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=victorcardosdev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br"
-/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorcardosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcardosdev&theme=github_dark&hide_border=true&layout=compact&langs_count=6"
-/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcardosdev&layout=compact&langs_count=8&theme=dracula"/>
 
-</p>
-
-<p align="center">
-
-<img
-    src="https://streak-stats.demolab.com?user=victorcardosdev&theme=github-dark-blue&hide_border=true"
-/>
-
-</p>
+</div>
 
 ---
 
-## 📚 Atualmente estudando
+## 🔥 Sequência de Contribuições
 
-- ☕ Java
-- 🧩 Programação Orientada a Objetos
-- 🗄️ SQL
-- 🌱 Estruturas de Dados
-- 🔀 Git e GitHub
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=victorcardosdev&theme=dracula"/>
 
-## 🎯 Objetivo
-
-Atuar como desenvolvedor **Back-end Java**, criando aplicações bem estruturadas, escaláveis e de qualidade, enquanto continuo evoluindo em arquitetura de software, boas práticas de programação e desenvolvimento de APIs.
+</div>
 
 ---
 
-## 📫 Contato
+## ⭐ Projetos em Destaque
+
+🏠 **Sistema Imobiliário em Java**
+- Programação Orientada a Objetos
+- Herança
+- Polimorfismo
+- Tratamento de Exceções
+- Collections
+
+📌 Em breve mais projetos públicos.
+
+---
+
+## 🌐 Contato
 
 <p align="left">
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-matos-cardoso-santana-5231a9211/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:joaovictormatosbusiness@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://github.com/victorcardosdev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/victorcardosdev/victorcardosdev/output/snake.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Todo especialista já foi um iniciante que nunca desistiu."
+
+</div>
